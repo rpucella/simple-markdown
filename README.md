@@ -10,5 +10,5 @@ Clone and run `make`. The binary `md` can be found in `bin`.
 
 Run `bin/md` with a Markdown file as a first argument and an optional HTML template as a second argument. The resulting HTML output will be sent to standard out.
 
-A tempalte is an HTML file with an `{{.}}` in it that will get replaced by the output of the Markdown processor.
+A template is an HTML file with an `{{.}}` in it that will get replaced by the output of the Markdown processor.
 
